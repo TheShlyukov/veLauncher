@@ -7,7 +7,7 @@ Before running program, install dependencies:
 
 pip install -r requirements.txt
 
-Currently, launcher is not compiled (only sourse code).
+Currently, launcher is compiled only for windows. Use source code to run on MacOS and Linux.
 Please run those versions via terminal, to have ability to view log and progressbar
 (in alpha 0.1.1 and above you can run without terminal, just running .py file via IDE)
 
