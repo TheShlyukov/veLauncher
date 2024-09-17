@@ -1,6 +1,8 @@
 # veLauncher
 Simple minecraft Launcher on python
 
+No root needed
+
 if you run source code:
 
 Before running program, install dependencies:
