@@ -3,6 +3,8 @@ Simple minecraft Launcher on python
 
 No root needed
 
+for GUI version see "releases"
+
 if you run source code:
 
 Before running program, install dependencies:
