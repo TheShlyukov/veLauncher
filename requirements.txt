@@ -1,2 +1,0 @@
-minecraft-launcher-lib==6.5
-
